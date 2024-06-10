@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @lewis-conroy
-- 👀 I’m interested in cloud technology and AI
-- 🌱 I’m currently learning Google Cloud Platform, C++ and AI/ML
-- 💞️ I’m looking to collaborate on open-source projects!
-- 📫 Reach me on github!
+I'm a full-stack web developer from Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
+
+I focus on web design and development, and really enjoy working with SMEs, non-profits, and social enterprises.
 
 <!---
 lewis-conroy/lewis-conroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
